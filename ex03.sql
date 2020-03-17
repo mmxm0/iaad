@@ -1,0 +1,1 @@
+select * from bebidas where nome_bebida != 'Blue Moon';

@@ -1,0 +1,1 @@
+select min(qtd1) as 'Quantidade min ingrediente 1', avg(qtd1) as 'media quantidade ingrediente 1', max(qtd1) as 'Quantidade max ingrediente 1', min(qtd2) as 'Quantidade min ingrediente 2', avg(qtd2) as 'media quantidade ingrediente 2', max(qtd2) as 'Quantidade max ingrediente 2' from bebidas;

@@ -1,0 +1,1 @@
+select * from bebidas a, info_bebidas b where a.nome_bebida = b.nome_bebida and b.gelo = 'Y' and b.calorias > 50;

@@ -1,0 +1,1 @@
+select ucase(nome_bebida) as nome_bebida, ingrediente1, qtd1, ingrediente2, qtd2, instrucoes from bebidas;

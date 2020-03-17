@@ -1,0 +1,1 @@
+select * from bebidas where qtd1 > qtd2; 

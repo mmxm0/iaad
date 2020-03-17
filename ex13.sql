@@ -1,0 +1,1 @@
+select * from info_bebidas where carboidratos is null or calorias is null ;
